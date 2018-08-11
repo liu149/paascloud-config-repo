@@ -1,4 +1,5 @@
-#server:
+aaa=bbb
+server:
 #  tomcat:
 #    uri-encoding: UTF-8
 #    remote-ip-header: x-forwarded-for
